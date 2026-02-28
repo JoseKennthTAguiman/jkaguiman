@@ -9,9 +9,6 @@ I am a passionate IT student at Xavier University, driven by a curiosity for tec
 - 💬 Ask me about ...
 - 📫 How to reach me: <20230028787@my.xu.edu.ph>
 
-## Fan Fact about me
-- I always play video games.
-
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
 
